@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "audio_i2s.h": "c",
+        "stdio.h": "c",
+        "binary_info.h": "c"
+    }
+}
+
